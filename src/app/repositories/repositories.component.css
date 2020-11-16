@@ -1,0 +1,8 @@
+.card-header{
+
+background-image: linear-gradient(to bottom right, red, yellow);
+}
+.jumbotron{
+    background-image: url(https://previews.123rf.com/images/mimacz/mimacz1507/mimacz150700003/43285359-blue-yellow-white-background-triangle.jpg);
+    background-size: cover;
+}

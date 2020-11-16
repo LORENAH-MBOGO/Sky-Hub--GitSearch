@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url(https://previews.123rf.com/images/mimacz/mimacz1507/mimacz150700003/43285359-blue-yellow-white-background-triangle.jpg);
+    background-size: cover;
+}
+.text-dark{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.lead{
+    font-weight: bolder;
+    font-size: 20px;
+}
